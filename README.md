@@ -2,6 +2,10 @@ Short test suite to check how LevelUP, LevelDOWN, and memdown emit
 `null` and `undefined` values via `.createValueStream`.
 
 ```shellsession
+$ npm -v
+3.8.9
+$ node -v
+v6.2.0
 $ node test.js
 TAP version 13
 # leveldown
